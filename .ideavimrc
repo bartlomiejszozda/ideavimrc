@@ -1,0 +1,5 @@
+syntax on                 " syntax coloring
+set background=dark
+filetype plugin indent on   " automatically finds and load specific plugin
+imap jk <Esc>
+
